@@ -4,7 +4,7 @@
 </head>
 <body>
 <script>
-alert(欧思博的第一个网页)
+alert(李俊亮的第一个网页)
 </script>
 <ahref="javascript:alert('Hello');">test</a>
 </body>
